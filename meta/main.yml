@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: homeopz
+  role_name: microk8s
+  company: HomeOpz
+  description: Setup MicroK8S
+  license: Apache 2
+  min_ansible_version: 2.10.0
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+  galaxy_tags:
+    - microk8s
+dependencies: []
